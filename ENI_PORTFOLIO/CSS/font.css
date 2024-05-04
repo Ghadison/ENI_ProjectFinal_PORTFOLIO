@@ -1,0 +1,24 @@
+/* font-family : Poppins ; */
+@font-face {
+    font-family: Poppins;
+    src: url("../Fonts/poppins/Poppins-Regular.ttf");
+}
+
+/* font-family : 'Poppins bolder'; */
+@font-face {
+    font-family: 'Poppins bolder';
+    src: url("../Fonts/poppins/Poppins-Bold.ttf");
+}
+
+/* font-family : Fun_games ; */
+@font-face {
+    font-family: Fun_games;
+    src: url('../Fonts/fun_games/Fun\ Games.ttf');
+}
+
+/* font-family : Nero ; */
+@font-face {
+    font-family: Nero;
+    src: url('../Fonts/nero/Nero.otf');
+}
+
